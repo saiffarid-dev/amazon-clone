@@ -1,8 +1,10 @@
 # Amazon Clone
 
-A front-end clone of the Amazon homepage built using HTML5 and CSS3. This project recreates the look and feel of Amazon's landing page, including the navigation bar, hero section, product cards, shopping categories, and footer layout.
+A front-end Amazon Clone built using HTML5 and CSS3. This project recreates the look and feel of Amazon's homepage, including the navigation bar, hero section, product cards, shopping categories, and footer layout.
 
-## Features
+---
+
+## 🚀 Features
 
 - Amazon-inspired Navigation Bar
 - Search Bar UI
@@ -13,12 +15,16 @@ A front-end clone of the Amazon homepage built using HTML5 and CSS3. This projec
 - Clean and Organized Code Structure
 - Desktop Optimized Design
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 
-## Project Preview
+---
+
+## 📸 Project Preview
 
 ### Homepage
 
@@ -32,15 +38,21 @@ A front-end clone of the Amazon homepage built using HTML5 and CSS3. This projec
 
 ![Footer Section](screenshots/footer.png)
 
-## Live Demo
+---
 
-🚀 [View Live Demo](https://saifpydev.github.io/full-stack-mini-projects/Frontend-Projects/amazon-clone/)
+## 🌐 Live Demo
 
-## Source Code
+🔗 https://saiffarid-dev.github.io/amazon-clone/
 
-💻 [View Source Code](https://github.com/Saifpydev/full-stack-mini-projects/tree/master/Frontend-Projects/amazon-clone)
+---
 
-## Folder Structure
+## 💻 Source Code
+
+🔗 https://github.com/saiffarid-dev/amazon-clone
+
+---
+
+## 📂 Project Structure
 
 ```text
 amazon-clone/
@@ -56,33 +68,48 @@ amazon-clone/
 └── README.md
 ```
 
-## Learning Outcomes
+---
+
+## 📚 Learning Outcomes
 
 Through this project, I practiced:
 
-- Building large webpage layouts using HTML
+- Building webpage layouts using HTML
 - Styling components with CSS
 - Creating navigation bars and product grids
 - Working with images and assets
 - Organizing project files professionally
 - Managing projects using Git and GitHub
 
-## Project Status
+---
+
+## 📌 Project Status
 
 ✅ Completed
 
-## Limitations
+---
 
-- This project is not fully responsive.
-- Optimized primarily for desktop screens.
-- No backend functionality included.
-- No JavaScript functionality implemented.
+## ⚠️ Limitations
 
+- Desktop Optimized Design
+- Not Fully Responsive
+- No Backend Functionality
+- No JavaScript Functionality
 
-This project was created for educational and portfolio purposes only. Amazon name and branding belong to Amazon. This project is not affiliated with or endorsed by Amazon.
+---
 
-## Author
+## 📖 Disclaimer
+
+This project was created for educational and portfolio purposes only. Amazon and all related trademarks, logos, and branding belong to Amazon. This project is not affiliated with, sponsored by, or endorsed by Amazon.
+
+---
+
+## 👨‍💻 Author
 
 **Saif Farid**
 
-GitHub: https://github.com/Saifpydev
+GitHub: https://github.com/saiffarid-dev
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub.
